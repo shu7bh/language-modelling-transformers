@@ -1,0 +1,9 @@
+*.pth
+runs/
+!best_model.pth
+log.txt
+.vscode
+__pycache__
+wandb/
+RES/
+batch_script.sh
